@@ -4,6 +4,6 @@
 
 <p>Here's an image that can give us a taste about what this Front-end project looks like:</p>
 
-<a href="http://codepen.io/LuKrebs/full/oZRMpE/"><img src="img-bass.png"></a>
+<a href="http://codepen.io/LuKrebs/full/oZRMpE/"><img src="img/bass.png"></a>
 
 
